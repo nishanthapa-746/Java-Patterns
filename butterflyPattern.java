@@ -2,7 +2,7 @@
 public class butterflyPattern {
 
     public void main(String args[]) {
-        int n = 4;
+        int n = 5;
         /*
         we have to dive the butterfly into two half 
         upper one and lower one 
